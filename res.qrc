@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Home.png</file>
+    <file>icons/badge.png</file>
+    <file>icons/001-youtube.png</file>
+    <file>icons/badge.png</file>
+    <file>icons/boy-2027615_1280.png</file>
+    <file>icons/brosser.png</file>
+    <file>icons/browse.png</file>
+    <file>icons/clock.png</file>
+    <file>icons/customizition.png</file>
+    <file>icons/donload2.png</file>
+    <file>icons/download.png</file>
+    <file>icons/download1.png</file>
+    <file>icons/download2.png</file>
+    <file>icons/download-icon-6.jpg</file>
+    <file>icons/fg - Copy.png</file>
+    <file>icons/fg.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/folder_browse-512.png</file>
+    <file>icons/home.png</file>
+    <file>icons/home_download.ico</file>
+    <file>icons/home_download.png</file>
+    <file>icons/home_youtube.png</file>
+    <file>icons/images (1).png</file>
+    <file>icons/images (2).png</file>
+    <file>icons/images.png</file>
+    <file>icons/images2.png</file>
+    <file>icons/img_373619.png</file>
+    <file>icons/img_391456.png</file>
+    <file>icons/index.png</file>
+    <file>icons/loupe.png</file>
+    <file>icons/notify.png</file>
+    <file>icons/playlist.png</file>
+    <file>icons/recent-history-647981.png</file>
+    <file>icons/search-512.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/youtube.png</file>
+    <file>icons/youtube1.jpeg</file>
+  </qresource>
+</RCC>
